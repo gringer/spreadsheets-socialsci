@@ -103,7 +103,7 @@ analyze your data. It is essential to use a clearly defined and consistent null 
 Blanks (most applications) and NA (for R) are good choices. White et al, 2013, explain good choices for indicating null values for different software applications in their article:
 [Nine simple ways to make it easier to (re)use your data.](http://dx.doi.org/10.4033/iee.2013.6b.6.f) Ideas in Ecology and Evolution.
 
-![White et al.](../fig/white_table_1.jpg)
+![White et al.](../fig/white_table_1.png)
 
 
 ## <a name="formatting"></a> Using formatting to convey information 
